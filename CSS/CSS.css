@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: lightgreen;
 }
 
 h1,h2,h3,h4,h5,h6,p{
@@ -20,7 +20,7 @@ nav a{
 }
 
 nav a:hover{ /* How it looks when you hover with muose */
-	color:orange;
+	color: lightgrey;
 }
 
 #current{ 
