@@ -1,5 +1,5 @@
 body {
-	background-color: lightgreen;
+	background-image: url("http://stats.xonotic.org/static/css/img/web_background_2.jpg");
 }
 
 h1,h2,h3,h4,h5,h6,p{
@@ -16,7 +16,7 @@ nav{
 }
 
 nav a{
-	color:black;
+	color: purple;
 }
 
 nav a:hover{ /* How it looks when you hover with muose */
@@ -38,5 +38,12 @@ nav a:hover{ /* How it looks when you hover with muose */
 	position:relative;
 	width: 80%;
 	margin: 0px auto 0px auto; /* top right bottom left */
-	border: 3px black solid; /* border-width border-color border-style*/
+	border: 3px purple solid; /* border-width border-color border-style*/
+}
+
+.center{
+	margin: 10px auto 0px auto;
+	height: 156px;
+	width: 306px;
+
 }
